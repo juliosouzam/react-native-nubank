@@ -1,5 +1,5 @@
 # React Native Nubank Layout
-## Rocketseat - Recriando a interface do Nubank (+ ANIMAÇÕES) com React Native | Diego Fernandes
+## Rocketseat - Recriando a interface do Nubank (+ ANIMAÇÕES) com React Native
 
 ### *To run this app*
 ````bash
